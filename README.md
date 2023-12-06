@@ -63,7 +63,7 @@ Greetings! 👋 I'm Yohan Permana, a passionate Information Systems student. I t
 <tr>
   <td align="center">Smart Finance App Android Project</td>
   <td align="center">Develop Android finance apps for seamless financial management. This project won 1st place in the Study Club in the Android SME field of FT ITC.</td>
-  <td align="center"><a href="https://urlis.net/o93eg1x5" target="_blank">Program documentation</a>
+  <td align="center"><a href="https://github.com/YohanpermanaRepository/Project-Apps-android-mobile-Smart-Finance" target="_blank">Program documentation</a>
   </td>
 </tr>
 
